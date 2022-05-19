@@ -12,7 +12,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Files
 
-* [Test Data](https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-DATA-PT-05-2022-U-LOL/-/blob/main/02-Homework/02-VBA-Scripting/Instructions/Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
+* [Test Data](https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-DATA-PT-05-2022-U-LOL/-/raw/main/02-Homework/02-VBA-Scripting/Instructions/Resources/alphabetical_testing.xlsx) - Use this while developing your scripts.
 
 * [Stock Data](Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
