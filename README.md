@@ -18,7 +18,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Stock market analyst
 
-![stock Market](Images/stockmarket.jpg)
+![stockmarket](https://user-images.githubusercontent.com/104200419/169229939-0f9fc71a-875c-4cfc-95b1-cba0b546ff52.jpg)
 
 ## Instructions
 
