@@ -14,7 +14,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * [Test Data](https://github.com/rontofu/VBA_Homework-VBA_Of_Wall_Street/files/8726077/alphabetical_testing.xlsx) - Use this while developing your scripts.
 
-* [Stock_Data](https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-DATA-PT-05-2022-U-LOL/-/raw/main/02-Homework/02-VBA-Scripting/Instructions/Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
+* [Stock Data](https://monash.bootcampcontent.com/monash-coding-bootcamp/MONU-VIRT-DATA-PT-05-2022-U-LOL/-/raw/main/02-Homework/02-VBA-Scripting/Instructions/Resources/Multiple_year_stock_data.xlsx) - Run your scripts on this data to generate the final homework report.
 
 ### Stock market analyst
 
